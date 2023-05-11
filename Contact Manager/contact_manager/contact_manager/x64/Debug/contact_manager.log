@@ -1,0 +1,4 @@
+﻿  MyForm.cpp
+E:\Contact Manager\contact_manager\contact_manager\MyForm.cpp(10,34): warning C4829: Possibly incorrect parameters to function main. Consider 'int main(Platform::Array<Platform::String^>^ argv)'
+  MyForm.obj : MSIL module encountered; incremental linking is disabled for MSIL; performing full link
+  contact_manager.vcxproj -> E:\Contact Manager\contact_manager\x64\Debug\contact_manager.exe
