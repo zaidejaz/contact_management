@@ -1,0 +1,8 @@
+E:\Contact Manager\contact_manager\contact_manager\x64\Debug\contact_manager.vcxproj.AssemblyReference.cache
+E:\Contact Manager\contact_manager\contact_manager\x64\Debug\contact_manager.vcxproj.SuggestedBindingRedirects.cache
+E:\Contact Manager\contact_manager\contact_manager\x64\Debug\contactmanager.MyForm.resources
+E:\Contact Manager\contact_manager\contact_manager\x64\Debug\contact_manager.vcxproj.GenerateResource.cache
+C:\Users\muham\Desktop\C++\contact_management-main\Contact Manager\contact_manager\contact_manager\x64\Debug\contact_manager.vcxproj.AssemblyReference.cache
+C:\Users\muham\Desktop\C++\contact_management-main\Contact Manager\contact_manager\contact_manager\x64\Debug\contact_manager.vcxproj.SuggestedBindingRedirects.cache
+C:\Users\muham\Desktop\C++\contact_management-main\Contact Manager\contact_manager\contact_manager\x64\Debug\contactmanager.MyForm.resources
+C:\Users\muham\Desktop\C++\contact_management-main\Contact Manager\contact_manager\contact_manager\x64\Debug\contact_manager.vcxproj.GenerateResource.cache

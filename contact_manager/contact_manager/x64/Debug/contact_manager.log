@@ -1,0 +1,6 @@
+﻿  MyForm.cpp
+C:\Users\muham\Desktop\C++\contact_management-main\Contact Manager\contact_manager\contact_manager\MyForm.h(584,17): error C2440: '=': cannot convert from 'const wchar_t [7]' to 'System::Windows::Forms::Label ^'
+C:\Users\muham\Desktop\C++\contact_management-main\Contact Manager\contact_manager\contact_manager\MyForm.h(584,17): message : Reason: cannot convert from 'const wchar_t *' to 'System::Windows::Forms::Label ^'
+C:\Users\muham\Desktop\C++\contact_management-main\Contact Manager\contact_manager\contact_manager\MyForm.h(584,17): message : No user-defined-conversion operator available, or
+C:\Users\muham\Desktop\C++\contact_management-main\Contact Manager\contact_manager\contact_manager\MyForm.h(584,17): message : Cannot convert a native type to a managed type
+C:\Users\muham\Desktop\C++\contact_management-main\Contact Manager\contact_manager\contact_manager\MyForm.cpp(14,34): warning C4829: Possibly incorrect parameters to function main. Consider 'int main(Platform::Array<Platform::String^>^ argv)'
