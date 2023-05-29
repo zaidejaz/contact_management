@@ -1,4 +1,0 @@
-E:\Contact Manager\contact_manager\contact_manager\x64\Debug\contact_manager.vcxproj.AssemblyReference.cache
-E:\Contact Manager\contact_manager\contact_manager\x64\Debug\contact_manager.vcxproj.SuggestedBindingRedirects.cache
-E:\Contact Manager\contact_manager\contact_manager\x64\Debug\contactmanager.MyForm.resources
-E:\Contact Manager\contact_manager\contact_manager\x64\Debug\contact_manager.vcxproj.GenerateResource.cache
